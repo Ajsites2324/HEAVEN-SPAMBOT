@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <b> ʜᴇᴀᴠᴇɴ sᴘᴀᴍ ʙᴏᴛ </b>
+  <b> 𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠 </b>
 
 </h1>
 
@@ -16,5 +16,5 @@
 
 ##  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ
 
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/HEAVEN-SPAMBOT)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajsites2324/HEAVEN-SPAMBOT)
 
