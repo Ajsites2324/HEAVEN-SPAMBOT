@@ -358,7 +358,7 @@ async def start_yukki():
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await edk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
-            await edk(functions.channels.JoinChannelRequest(chanNel=" @The_Professor_Network"))
+            await edk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await edk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
