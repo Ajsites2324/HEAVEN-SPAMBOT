@@ -1323,7 +1323,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝑴𝑶𝑻𝑯𝑬𝑹𝑭𝑼€𝑲𝑬𝑹 𝒀𝑶𝑼𝑹 𝑫𝑫𝑨𝑫 𝑳𝑬𝑨𝑽𝑬 𝒀𝑶𝑼 😂 😂💥"
+            text = "𝑴𝑶𝑻𝑯𝑬𝑹𝑭𝑼€𝑲𝑬𝑹 𝒀𝑶𝑼𝑹 𝑫𝑨𝑫 𝑳𝑬𝑨𝑽𝑬 𝒀𝑶𝑼 😂 😂💥"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1334,7 +1334,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝑴𝑶𝑻𝑯𝑬𝑹𝑭𝑼€𝑲𝑬𝑹 𝒀𝑶𝑼𝑹 𝑫𝑫𝑨𝑫 𝑳𝑬𝑨𝑽𝑬 𝒀𝑶𝑼 😂😂💥"
+            text = "𝑴𝑶𝑻𝑯𝑬𝑹𝑭𝑼€𝑲𝑬𝑹 𝒀𝑶𝑼𝑹 𝑫𝑨𝑫 𝑳𝑬𝑨𝑽𝑬 𝒀𝑶𝑼 😂😂💥"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1497,7 +1497,8 @@ text = """
 CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL 𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠 DEPLOYED SUCCESSFULLY """
 
 print(text)
-print(text)dteieitdutsursitsistitititwdfsgxix7td8eefs74srs57836 !!")
+print("")
+print("𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠!!")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
