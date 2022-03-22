@@ -222,7 +222,7 @@ async def start_yukki():
             await sdk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await sdk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await sdk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
-            await sdk(functions.channels.JoinChannelRequest(chanNel=" @The_Professor_Network"))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -247,9 +247,9 @@ async def start_yukki():
             print("Booting Up The Client 6")
             await adk.start()
             await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
-            await adk(functions.channels.JoinChannelRequest(chanNel=" @The_Professor_Network))
+            await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network))
             await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
-            await adk(functions.channels.JoinChannelRequest(chanNel=" @The_Professor_Network"))
+            await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝑫𝑨𝑫 𝑰𝑺 𝑹𝑬𝑨𝑫𝒀 𝑻𝑶 𝑭𝑪𝑼𝑲 𝒀𝑶𝑼 🤤🔥")
+                await event.edit("𝑫𝑨𝑫 𝑰𝑺 𝑹𝑬𝑨𝑫𝒀 𝑻𝑶 𝑭𝑼€𝑲 𝒀𝑶𝑼 🤤🔥")
             except Exception as e:
                 await event.edit(str(e))   
         else:
