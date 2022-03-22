@@ -247,7 +247,7 @@ async def start_yukki():
             print("Booting Up The Client 6")
             await adk.start()
             await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
-            await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network))
+            await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             await adk(functions.channels.JoinChannelRequest(channel=" @The_Professor_Network"))
             botme = await adk.get_me()
